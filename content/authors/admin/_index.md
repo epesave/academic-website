@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: University of California, San Diego
+    year: 2000
+  - course: Visiting Scholar in the EAP program - Department of Economics
+    institution: University of California, Berkeley
+    year: 1994
+  - course: BA in Statistics and Economic Sciences
+    institution: Universita' di Padova, Italy
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
