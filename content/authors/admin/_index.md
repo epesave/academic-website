@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Elena Pesavento
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Emory University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Elena Pesavento is Associate Professor in the Department of Economics at Emory University. Her specialty is Time Series Analysis with focus on inference and testing in Vector Autoregressive Models. In particularly she studies inference when variables are non-stationary (unit root, cointegrated or with breaks) or persistent (local to unity). Her BS is Statistics started her passion for making statistics fun to undergraduate and graduate students that she now continue to pursue in her teaching. She is also committed to faculty governance at Emory having served in leadership roles within the Emory College.  In her spare time, she competes in agility with her dogs.
