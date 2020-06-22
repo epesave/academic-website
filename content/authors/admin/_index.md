@@ -25,18 +25,6 @@ interests:
 - Applied Macroeconomics
 - Exchange Rates
 
-teaching:
-- Statistics, Econometrics, Applied Econometrics, Time Series Analysis (Graduate level)
-- Probability and Statistics, Economic Forecasting and Econometrics,  (Undergraduate level)
-
-service:
-- Department Chair of 15-35 faculty department
-- President of the Senate of the Emory College of Arts and Sciences at Emory University
-- Member of the University Senate and Faculty Council of Emory University
-
-consulting:
-- Experience in consulting in the electric industries: review of forecasting models and econometrics training of employees
-
 education:
   courses:
   - course: PhD in Artificial Intelligence
