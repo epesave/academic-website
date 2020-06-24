@@ -44,7 +44,7 @@ education:
 social:
 - icon: cv
   icon_pack: ai
-  link: files/cv.docx
+  link: files/cv.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=fOeHVMUAAAAJ
