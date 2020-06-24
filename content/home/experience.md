@@ -50,7 +50,7 @@ date_format = "Jan 2006"
   date_end = "2008-03-01"
   
 [[experience]]
-  title = "Associate Professor"
+  title = "Assistant Professor"
   company = "Department of Economics - Emory University"
   company_url = ""
   location = "Atlanta, US"
