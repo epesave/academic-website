@@ -1,5 +1,5 @@
 # Theme metadata
-name = "Minimal"
+name = "Emory"
 
 # Is theme light or dark?
 light = true
@@ -10,7 +10,7 @@ primary = "#2962ff"
 # Menu
 menu_primary = "rgb(1, 33, 105)"
 menu_text = "#fff"
-menu_text_active = "rgb(181, 133, 0)"
+menu_text_active = "rgb(242, 169, 0)"
 menu_title = "#fff"
 
 # Home sections
