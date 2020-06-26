@@ -25,8 +25,8 @@ abstract: "We incorporate low frequency information from demographic variables i
 summary: ""
 
 tags: ["Demographics", "Stock market valuation", "Stock return prediction", "Conditional forecasts", "Long-horizon forecasts"]
-categories: ["Applied Macroeconomics"]
-featured: true
+categories: ["Applied Macroeconomics", "Working Papers"]
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
