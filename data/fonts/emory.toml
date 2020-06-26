@@ -1,0 +1,11 @@
+# Font style metadata
+name = "font"
+
+# Optional Google font URL
+google_fonts = "Noto+Sans"
+
+# Font families
+heading_font = "Noto Sans"
+body_font = "Noto Sans"
+nav_font = "Noto Sans"
+mono_font = "Noto Sans"
