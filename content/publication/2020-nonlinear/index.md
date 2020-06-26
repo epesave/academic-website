@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Long-Horizon Stock Valuation and Return Forecasts Conditional on Demographic Projections"
+title: "Impulse response analysis for structural dynamic models with nonlinear regressors"
 authors: [Gonçalves, S.; Herrera, A. M.; Kilian, L.; Pesavento, E.]
 date: 2020-06-18
 doi: ""
