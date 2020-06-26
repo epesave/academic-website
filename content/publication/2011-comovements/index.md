@@ -24,7 +24,7 @@ abstract: "This article clarifies the empirical source of the debate on the effe
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Impulse response function", "Long-run identification", "Structural vector autoregression"]
+tags: ["Impulse response functions", "Long-run identification", "Structural vector autoregression"]
 categories: ["Theoretical Time Series"]
 featured: true
 
