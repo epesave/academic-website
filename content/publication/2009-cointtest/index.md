@@ -16,7 +16,7 @@ publishDate: 2020-06-26
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Econometric Theory, 25 (6), pp. 1829–1850"
+publication: "Econometric Theory, 25 (6), pp. 1829-1850"
 publication_short: ""
 
 abstract: "A number of tests have been suggested for the test of the null of no cointegration. Under this null, correlations are spurious in the sense of Granger and Newbold (1974) and Phillips (1986). We examine a set of models local to the null of no cointegration and derive tests with optimality properties in order to examine the efficiency of available tests. We find that, for a sufficiently tight weighting over potential cointegrating vectors, commonly employed full system tests have power that can, in some situations, be quite far from the power bounds for the models examined."
