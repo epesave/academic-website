@@ -24,7 +24,7 @@ abstract: "This paper provides a comprehensive comparison of existing methods fo
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Local-to-unity asymptotics", "Persistence", "Impulse response function"]
+tags: ["Local-to-unity asymptotics", "Persistence", "Impulse response functions"]
 categories: ["Theoretical Time Series"]
 featured: false
 
