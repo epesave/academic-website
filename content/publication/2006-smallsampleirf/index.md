@@ -24,7 +24,7 @@ abstract: "Existing methods for constructing confidence bands for multivariate i
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["VAR", "Impulse Response Functions", "Local-to-unity asymptotics", "Unit root"]
+tags: ["VAR", "Impulse response functions", "Local-to-unity asymptotics", "Unit root"]
 categories: ["Theoretical Time Series"]
 featured: true
 
