@@ -24,7 +24,7 @@ abstract: "This article investigates the robustness of impulse response estimato
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Impulse response functions", "Structural VAR", "Short/long-run identification", "Pre-testing", "Unit roots", "Cointegration"]
+tags: ["Impulse response functions", "Structural VAR", "Short/long-run identification", "Pre-testing", "Unit root", "Cointegration"]
 categories: ["Theoretical Time Series"]
 featured: false
 
