@@ -4,7 +4,7 @@
 title: "Oil Price Shocks, Systematic Monetary Policy, and the 'Great Moderation'"
 authors: [Herrera, A. M.; Pesavento, E.]
 date: 2009-02-01
-doi: ""
+doi: "https://doi.org/10.1017/S1365100508070454"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-30
