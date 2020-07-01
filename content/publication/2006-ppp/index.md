@@ -16,7 +16,7 @@ publishDate: 2020-06-30
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: " Journal of Money, Credit and Banking, 38 (6), pp. 1405-1430"
+publication: "Journal of Money, Credit and Banking, 38 (6), pp. 1405-1430"
 publication_short: ""
 
 abstract: "Point estimates suggest mean reversion in real exchange rates; however, it still remains uncomfortable that models without any mean reversion are often compatible with data from the floating period. Studies with data over longer periods find mean reversion, but at the cost of mixing in data from earlier exchange rate arrangements. Pooling the floating period data potentially mixes country pairs with and without mean reversion. We examine tests for mean reversion for individual country pairs where greater power against close alternatives is gained through modeling other economic variables with the real exchange rate. By increasing the power of the tests we find strong evidence of mean reversion."
