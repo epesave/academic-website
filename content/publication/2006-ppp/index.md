@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "On the Failure of Purchasing Power Parity for Bilateral Exchange Rates after 1973"
-authors: [Elliott, G.; Pesavento, E.]
+authors: [Elliott G., Pesavento E.]
 date: 2006-09-01
 doi: "https://doi.org/10.1353/mcb.2006.0080"
 
