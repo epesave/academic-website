@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Long-Horizon Stock Valuation and Return Forecasts Conditional on Demographic Projections"
-authors: [Chen, C.; Gospodinov, N.; Maynard, A.; Pesavento, E.]
+authors: [Chen C., Gospodinov N., Maynard A., Pesavento E.]
 date: 2020-06-22
 doi: ""
 
