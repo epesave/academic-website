@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Unit Roots, Cointegration and Pre-Testing in VAR Models"
-authors: [Gospodinov, N.; Herrera, A. M.; Pesavento, E.]
+authors: [Gospodinov N., Herrera A. M., Pesavento E.]
 date: 2013-12-13
 doi: "https://doi.org/10.1108/S0731-9053(2013)0000031003"
 
