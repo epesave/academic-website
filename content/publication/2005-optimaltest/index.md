@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Optimal Power for Testing Potential Cointegrating Vectors with Known Parameters for Nonstationarity"
-authors: [Graham Elliott , Michael Jansson,  Elena Pesavento]
+authors: [Graham Elliott , Michael Jansson, Elena Pesavento]
 date: 2005-01-01
 doi: "https://doi.org/10.1198/073500104000000307"
 
