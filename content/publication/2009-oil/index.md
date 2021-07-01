@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Oil Price Shocks, Systematic Monetary Policy, and the 'Great Moderation'"
-authors: [Herrera, A. M.; Pesavento, E.]
+authors: [Herrera A. M., Pesavento E.]
 date: 2009-02-01
 doi: "https://doi.org/10.1017/S1365100508070454"
 
