@@ -3,11 +3,11 @@
 
 title: "Impulse response analysis for structural dynamic models with nonlinear regressors"
 authors: [Gonçalves, S.; Herrera, A. M.; Kilian, L.; Pesavento, E.]
-date: 2020-06-18
+date: 2021-07-1
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-26
+publishDate: 2021
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "We study the construction of nonlinear impulse responses in structural dynamic models that include nonlinearly transformed regressors. Such models have played an important role in recent years in capturing asymmetries, thresholds and other nonlinearities in the responses of macroeconomic variables to exogenous shocks. The conventional approach to estimating nonlinear responses is by Monte Carlo integration. We show that the population impulse responses in this class of models may instead be derived analytically from the structural model. We use this insight to study under what conditions linear projection (LP) estimators may be used to recover the population impulse responses. We find that, unlike in vector autoregressive models, the asymptotic equivalence between estimators based on the structural model and LP estimators breaks down. Only in one important special case can the population impulse response be consistently estimated by LP methods. The construction of this LP estimator, however, differs from the LP approach currently used in the literature. Simulation evidence suggests that the modified LP estimator is less accurate in finite samples than estimators based on the structural model, when both are valid."
+abstract: "We study the construction of nonlinear impulse responses in linear structural dynamic models that include nonlinearly transformed regressors. We derive the closed-form solution for the popu-lation impulse responses to a given shock and propose a control function approach to estimating these responses without taking a stand on how the remainder of the model is identified. Our plug-in estimator dispenses with the need for simulations and, unlike conventional local projection (LP) estimators, is consistent. A modified LP estimator is shown to be consistent in special cases, but less accurate in nite samples than the plug-in estimator."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/nonlinear_june18.pdf"
+url_pdf: "files/GHKP1_final.pdf"
 url_code:
 url_dataset:
 url_poster:
