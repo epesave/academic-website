@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Small-Sample Confidence Intervals for Multivariate Impulse Response Functions at Long Horizons"
-authors: [Pesavento, E.]
+authors: [Pesavento, E.; Rossi, B.]
 date: 2006-12-01
 doi: "https://doi.org/10.1002/jae.894"
 
