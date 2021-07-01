@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Residuals-based Tests for the Null of No-Cointegration: An Analytical Comparison"
-authors: [Pesavento, E.]
+authors: [Pesavento E.]
 date: 2007-01-01
 doi: "https://doi.org/10.1111/j.1467-9892.2006.00501.x"
 
