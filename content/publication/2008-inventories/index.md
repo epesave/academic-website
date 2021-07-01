@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Comovement in Inventories and Sales: Higher and Higher"
-authors: [Herrera, A. M.; Murtazashvili, I.; Pesavento, E.]
+authors: [Herrera A. M., Murtazashvili I., Pesavento E.]
 date: 2008-04-01
 doi: "https://doi.org/10.1016/j.econlet.2007.06.037"
 
