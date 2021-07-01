@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An Analytical Evaluation of the Power of Tests for the Absence of Cointegration"
-authors: [Pesavento E.]
+authors: [Elena Pesavento]
 date: 2004-10-01
 doi: "https://doi.org/10.1016/j.jeconom.2003.10.025"
 
