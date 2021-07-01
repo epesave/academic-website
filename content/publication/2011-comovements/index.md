@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sensitivity of Impulse Responses to Small Low Frequency Co-movements: Reconciling the Evidence on the Effects of Technology Shocks"
-authors: [Gospodinov, N.; Maynard, A.; Pesavento, E.]
+authors: [Gospodinov N., Maynard A., Pesavento E.]
 date: 2011-01-01
 doi: "https://doi.org/10.1198/jbes.2011.10042"
 
