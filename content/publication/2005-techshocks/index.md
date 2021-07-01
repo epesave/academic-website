@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Do Technology Shocks Drive Hours Up or Down? A Little Evidence from an Agnostic Procedure"
-authors: [Pesavento E.; Rossi B.]
+authors: [Pesavento Elena ; Barbara Rossi]
 date: 2005-10-01
 doi: "https://doi.org/10.1017/S1365100505040356"
 
