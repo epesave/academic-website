@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Local projection", "Structural model", "Censored regressor", "Nonlinear transformation", "Nonlinear responses", "Monte Carlo integration"]
 categories: ["Theoretical Time Series", "Working Papers"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
