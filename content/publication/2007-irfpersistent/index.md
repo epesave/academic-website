@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impulse Response Confidence Intervals for Persistent Data: What Have We Learned?"
-authors: [Pesavento, E.; Rossi, B.]
+authors: [Pesavento E., Rossi B.]
 date: 2007-07-01
 doi: "https://doi.org/10.1016/j.jedc.2006.07.006"
 
