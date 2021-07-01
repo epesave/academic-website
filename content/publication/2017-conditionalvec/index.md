@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Conditional Inference in Nearly Cointegrated Vector Error-Correction Models with Small Signal-to-Noise"
-authors: [Gospodinov, N.; Maynard, A.; Pesavento, E.]
+authors: [Gospodinov N., Maynard A., Pesavento E.]
 date: 2017-10-01
 doi: ""
 
