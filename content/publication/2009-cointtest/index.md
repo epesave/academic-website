@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Testing the Null of No Cointegration When Covariates Are Known to Have a Unit Root"
-authors: [Elliott, G.; Pesavento, E.]
+authors: [Elliott G., Pesavento E.]
 date: 2009-12-01
 doi: "https://doi.org/10.1017/S026646660999034X"
 
