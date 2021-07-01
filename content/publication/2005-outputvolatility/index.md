@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Decline in US Output Volatility: Structural Changes and Inventory Investment"
-authors: [Herrera, A. M.; Pesavento, E.]
+authors: [Herrera A. M., Pesavento E.]
 date: 2005-10-01
 doi: "https://doi.org/10.1198/073500104000000596"
 
