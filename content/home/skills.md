@@ -35,7 +35,7 @@ subtitle = ""
 
 [[feature]]
   icon = "running"
-  icon_pack = "far"
+  icon_pack = "fas"
   name = "Jogging"
   # description = "10%"
 +++
