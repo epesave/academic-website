@@ -1,6 +1,6 @@
 ---
 title: Impulse Response Functions in nonlinear SVARs
-summary: An example of using the in-built project page.
+summary: Identification, Estimation, and Inference for Impulse Response Functions in nonlinear Structural VARs
 tags:
 - VAR
 date: "2021-07"
