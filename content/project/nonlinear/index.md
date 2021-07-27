@@ -2,7 +2,7 @@
 title: Impulse Response Functions in nonlinear SVARs
 summary: Identification, Estimation, and Inference for Impulse Response Functions in nonlinear Structural VARs
 tags:
-- VAR
+
 date: "2021-07"
 
 # Optional external URL for project (replaces project detail page).
