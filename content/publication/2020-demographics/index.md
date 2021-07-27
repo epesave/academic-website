@@ -16,7 +16,7 @@ publishDate: 2020-06-26
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Working Paper"
 publication_short: ""
 
 abstract: "We incorporate low frequency information from demographic variables into a simple predictive model to forecast stock valuations and returns conditional on demographic projections. The demographics appear to be an important determinant of stock valuations, such as the dividend-price ratio. The availability of long-term demographic projections allows us to provide (very) long-horizon conditional forecasts of stock market valuations and returns. We also exploit the strong contemporaneous correlation between returns and valuations to improve conditional return forecasts - something which is not possible in a predictive regression with only lagged predictors. Extensive conditional out-of-sample forecast comparisons and tests demonstrate the predictive value that an accurate demographic projection can deliver. The model also provides a simple way to adjust predictions under alternative demographic assumptions, incorporating, for example, the demographic impact of Covid-19 or recent changes to immigration policy."
