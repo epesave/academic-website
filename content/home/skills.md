@@ -32,4 +32,10 @@ subtitle = ""
   name = "Matlab"
   # description = "10%"
 
+
+[[feature]]
+  icon = "running"
+  icon_pack = "far"
+  name = "Jogging"
+  # description = "10%"
 +++
