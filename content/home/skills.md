@@ -45,4 +45,10 @@ subtitle = ""
   name = "Photography"
   # description: 10%
   
+  [[feature]] 
+  icon = "paw"
+  icon_pack = "fas"
+  name = "Dogs"
+  # description: 10%
+  
 +++
