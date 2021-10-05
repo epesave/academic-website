@@ -25,8 +25,8 @@ volatility regime, depend on past states. We then investigate what macroeconomic
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Local projection", "Structural model", "Censored regressor", "Nonlinear transformation", "Nonlinear responses", "Monte Carlo integration"]
-categories: ["Theoretical Time Series", "Working Papers"]
+tags: ["Markov Switching", "Oil prices", "Elastic Net", "Oil Prices"]
+categories: ["Applied Macroeconomics", "Working Papers"]
 featured: false
 
 # Custom links (optional).
@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/GHP.pdf"
+url_pdf: ""
 url_code:
 url_dataset:
 url_poster:
