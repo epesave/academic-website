@@ -16,7 +16,7 @@ publishDate: 2021-06-29
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Econometrics -forthcoming"
+publication: "Journal of Econometrics - forthcoming"
 publication_short: ""
 
 abstract: "We study the construction of nonlinear impulse responses in linear structural dynamic models that include nonlinearly transformed regressors. We derive the closed-form solution for the population impulse responses to a given shock and propose a control function approach to estimating these responses without taking a stand on how the remainder of the model is identified. Our plug-in estimator dispenses with the need for simulations and, unlike conventional local projection (LP) estimators, is consistent. A modified LP estimator is shown to be consistent in special cases, but less accurate in nite samples than the plug-in estimator."
