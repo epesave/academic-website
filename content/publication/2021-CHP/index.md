@@ -16,7 +16,7 @@ publishDate: 2021-06-29
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Working Paper"
 publication_short: ""
 
 abstract: "We study the evolution WTI returns using a novel approach proposed by Chang, Choi and Park (2017). That is, instead of modeling the process that governs the switching between volatility regimes as exogenous, switching depends on whether the underlying latent factor exceeds or not a threshold. Moreover, innovations in the latent factor are assumed to be correlated with the innovations in the previous period; hence, future transitions, say from a low to a high
