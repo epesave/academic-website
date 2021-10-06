@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "State-dependent Impulse Response Functions: Identification and Estimation "
-authors: [Goncalves S., Herrera A. M., Kilian L., Pesavento E.]
+authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2021-10-17
 doi: ""
 
@@ -16,7 +16,7 @@ publishDate: 2021-10-05
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Working Paper"
 publication_short: ""
 
 abstract: ""
