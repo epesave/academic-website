@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Impulse response analysis for structural dynamic models with nonlinear regressors"
-authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
+authors: [Goncalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2021-07-01
 doi: ""
 
