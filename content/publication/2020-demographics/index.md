@@ -54,7 +54,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "files/CG<P_Additional_Appendix.pdf"
+url_appendix: "files/CG<P_Additional_Appendix.pdf"
 url_video:
 
 # Featured image
