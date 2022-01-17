@@ -3,11 +3,11 @@
 
 title: "Conditional Inference in Nearly Cointegrated Vector Error-Correction Models with Small Signal-to-Noise"
 authors: [Gospodinov N., Maynard A., Pesavento E.]
-date: 2020-10-01
+date: 2021-12-31
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-30
+publishDate: 2021-12-30
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: 2020-06-30
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming in Advances of Econometrics "
+publication: "Advances in Econometrics in honor of Joon Y. Park - Forthcoming"
 publication_short: ""
 
 abstract: "This paper studies inference in cointegrating regessions and vector error correction (VEC) models when the cointegrating errors are a nearly integrated process with a low signal-to-noise-ratio. This combination of persistent, yet low variance error terms characterizes most 'carry' regressions of different asset classes, including for example exchange rates and gold futures prices. We develop rates of convergence and asymptotic distributions for estimators of the VEC and conditional VEC model when the error correction term is characterized by a dampened near unit root process, thereby combining the literatures on near cointegration and near zero variance regressors. We find that the estimator in the conventional VEC model suffers from a reduced rate of convergence, a large bias, and a highly dispersed asymptotic distribution. Its conditional counterpart is found to have better asymptotic properties."
