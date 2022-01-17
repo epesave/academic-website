@@ -58,7 +58,7 @@ url_source: "files/CGMP_Additional_Appendix.pdf"
 url_video:
 links: 
 - name: Online Appendix
-  url: pdf/supplemental_information.pdf
+  url: "files/CGMP_Additional_Appendix.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
