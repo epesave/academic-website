@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-dependent Impulse Response Functions "
+title: "State-dependent impulse response functions and multipliers in macroeconomics "
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2021-10-17
 doi: ""
