@@ -55,7 +55,6 @@ url_poster:
 url_project:
 url_slides:
 
-url_video:
 links: 
 - name: Online Appendix
   url: "files/CGMP_Additional_Appendix.pdf"
