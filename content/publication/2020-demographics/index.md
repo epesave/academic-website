@@ -49,7 +49,6 @@ featured: false
 #   icon: twitter
 
 url_pdf: "files/CGMP_main_paper.pdf"
-url_pdf: "files/CGMP_Additional_Appendix.pdf"
 url_code: 
 url_dataset:
 url_poster:
@@ -57,6 +56,9 @@ url_project:
 url_slides:
 url_source: "files/CGMP_Additional_Appendix.pdf"
 url_video:
+links: 
+- name: Online Appendix
+  url: pdf/supplemental_information.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
