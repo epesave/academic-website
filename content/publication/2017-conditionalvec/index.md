@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/near_coint_201.pdf"
+url_pdf: "files/near_coint_2021.pdf"
 url_code:
 url_dataset:
 url_poster:
