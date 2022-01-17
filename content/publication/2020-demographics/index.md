@@ -49,12 +49,12 @@ featured: false
 #   icon: twitter
 
 url_pdf: "files/CGMP_mainpaper.pdf"
-url_code:
+url_code: 
 url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "files/CG<P_Additional_Appendix.pdf"
 url_video:
 
 # Featured image
