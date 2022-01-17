@@ -3,7 +3,7 @@
 
 title: "State-dependent impulse response functions and multipliers in macroeconomics "
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
-date: 2021-10-17
+date: 2022-01-17
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
