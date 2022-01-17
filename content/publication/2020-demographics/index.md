@@ -48,7 +48,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/CGMP_mainpaper.pdf"
+url_pdf: "files/CGMP_main_paper.pdf"
 url_code: 
 url_dataset:
 url_poster:
