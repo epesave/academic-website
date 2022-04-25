@@ -3,11 +3,11 @@
 
 title: "Long-Horizon Stock Valuation and Return Forecasts Conditional on Demographic Projections"
 authors: [Chen C., Gospodinov N., Maynard A., Pesavento E.]
-date: 2022-01-17
+date: 2022-02-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-17
+publishDate: 2022-02-02
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
