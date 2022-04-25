@@ -4,7 +4,7 @@
 title: "Impulse response analysis for structural dynamic models with nonlinear regressors"
 authors: [Goncalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2021-09-01
-doi: ""
+doi: "https://doi.org/10.1016/j.jeconom.2021.06.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-06-29
