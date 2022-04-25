@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-dependent impulse response functions and multipliers in macroeconomics "
+title: "When do State-Dependent local projections work?"
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
-date: 2022-01-17
+date: 2022-04-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,18 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract: ""
+abstract: "Many empirical studies estimate impulse response functions that depend on the state of the
+economy. Most of these studies rely on a variant of the local projection (LP) approach to estimate
+the state-dependent impulse response functions. Despite its widespread application, the asymptotic
+validity of the LP approach to estimating state-dependent impulse responses has not been established to date. 
+We formally derive this result for a structural state-dependent vector autoregressive
+process. The model only requires the structural shock of interest to be identifieed. A sufficient
+condition for the consistency of the state-dependent LP estimator of the response function is that
+the first- and second-order conditional moments of the structural shocks are independent of current
+and future states, given the information available at the time the shock is realized. This rules
+out models in which the state of the economy is a function of current or future realizations of the
+outcome variable of interest, as is often the case in applied work. Even when the state is a function
+of past values of this variable only, consistency may hold only at short horizons."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +47,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "files/GHKP3_April22_2022.pdf"
 url_code:
 url_dataset:
 url_poster:
