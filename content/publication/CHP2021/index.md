@@ -3,7 +3,7 @@
 
 title: "Oil Price Volatility, Endogenous Regime Switching and Macroeconomic Factors"
 authors: [Chang Y., Herrera A. M., Pesavento E.]
-date: 2021-07-01
+date: 2022-02-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -69,17 +69,4 @@ projects: []
 slides: ""
 ---
 
-    © 2021 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
 
