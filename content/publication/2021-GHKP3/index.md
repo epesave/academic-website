@@ -47,7 +47,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/GHKP3_April22_2022.pdf"
+url_pdf: "files/GHKP3_April26_2022.pdf"
 url_code:
 url_dataset:
 url_poster:
