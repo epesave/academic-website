@@ -1,6 +1,6 @@
 ---
-title: Impulse Response Functions in nonlinear SVARs
-summary: Identification, Estimation, and Inference for Impulse Response Functions in nonlinear Structural VARs
+title: Impulse Response Functions in Nonlinear SVARs
+summary: Identification, Estimation, and Inference for Impulse Response Functions in Nonlinear Structural VARs
 tags:
 
 date: "2021-07"
@@ -30,4 +30,4 @@ url_video: ""
 slides: example
 ---
 
-This is a project jointly with Silvia Goncalves, Ana Maria Herrera, and Lutz Kilian. The first paper in this project investigates IRF in linear structural dynamic models that include nonlinearly transformed regressors. 
+This is a project jointly with Silvia Goncalves, Ana Maria Herrera, and Lutz Kilian. The first paper in this project investigates IRF in linear structural dynamic models that include nonlinearly transformed regressors. The second paper studies the condition under which linear projections in state dependent models estimate the correct impulse response functions. 
