@@ -38,7 +38,7 @@ summary: ""
 
 tags: ["Demographics", "Stock market valuation", "Stock return prediction", "Conditional forecasts", "Long-horizon forecasts"]
 categories: ["Applied Macroeconomics", "Working Papers"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
