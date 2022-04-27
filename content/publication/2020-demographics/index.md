@@ -13,7 +13,7 @@ publishDate: 2022-02-02
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Working Paper"
@@ -27,11 +27,11 @@ forecasts of stock market valuations and returns. We also exploit the strong con
 correlation between returns and valuations to improve return forecasts – something which is not
 possible in a predictive regression with only lagged predictors. Extensive pseudo out-of-sample
 forecast comparisons and tests demonstrate the predictive value that an accurate demographic
-projection can deliver. Although the availability of historical Census Bureau projections are
+projection can deliver. Although the availability of historical Census Bureau projections is
 limited, we demonstrate that they could have been employed in real time to improve true longhorizon
-stock return prediction. The model also provides a simple way to adjust predictions
-under alternative demographic assumptions, incorporating, for example, the demographic impact
-of COVID-19 or recent changes to immigration policy."
+stock return prediction. We show how the model can be used to adjust predictions under
+alternative demographic assumptions, incorporating, for example, the demographic impact of
+COVID-19 or recent changes to immigration policy."
 
 # Summary. An optional shortened abstract.
 summary: ""
