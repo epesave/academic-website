@@ -32,31 +32,4 @@ slides: example
 
 This is a project jointly with Chaoyi Chen, Nikolay Gospodinoc, and Alex Maynard. The first paper in this project investigates stock valuation and return forecasts based on demographic predictions. 
 
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-    © 2022 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
+   
