@@ -26,7 +26,7 @@ summary: ""
 
 tags: ["Impulse response functions", "Long-run identification", "Structural VAR"]
 categories: ["Theoretical Time Series"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
