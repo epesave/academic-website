@@ -27,7 +27,7 @@ summary: ""
 
 tags: ["Markov Switching", "Oil prices", "Elastic Net", "Oil Prices"]
 categories: ["Applied Macroeconomics", "Working Papers"]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
