@@ -1,5 +1,5 @@
 ---
-title: Forecasts based on Demographic Predictions
+title: Forecasts Based on Demographic Predictions
 summary: Long-Horizon Return and Inflation Forecasts Based on Demographic Predictions
 tags:
 
