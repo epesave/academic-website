@@ -16,7 +16,7 @@ publishDate: 2022-07-05
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "Journal of Empirical Finance"
 publication_short: ""
 
 abstract: "We incorporate low-frequency information from demographic variables into a simple predictive
