@@ -3,11 +3,11 @@
 
 title: "Oil Prices Uncertainty, Endogenous Regime Switching, and Inflation Anchoring"
 authors: [Chang Y., Herrera A. M., Pesavento E.]
-date: 2023-02-02
+date: 2023-03-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-03-02
+publishDate: 2022-02-02
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
