@@ -16,7 +16,7 @@ publishDate: 2022-02-02
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "Working in Progress"
 publication_short: ""
 
 abstract: "We analyze connectedness and spillover effects among sovereigns, financial and non-financial institutions over time. By allowing for the presence of common and layer factors we can study the different effects of shocks to the entire network of firms, and shocks that are specific to a sector. Using the “named factor” normalization, it is even possible to study how connectedness responds over time to different types of shocks.  "
