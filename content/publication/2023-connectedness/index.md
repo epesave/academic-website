@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Working in Progress"
 publication_short: ""
 
-abstract: "We estimate spillover effects among European sovereigns, financial and non-financial institutions over time. By allowing for the presence of common and layer factors, we can evaluate the different effects of shocks originating from common factors, layer factors and the idiosyncratic component. Our analysis allows us to visualize our findings using networks representing the entire grid of institutions and to study system-wide connectedness, cross-sectoral as well as cross-country connectedness.  "
+abstract: "We estimate spillover effects among European sovereigns, financial and non-financial institutions over time. By allowing for the presence of common and layer factors, we can evaluate the different effects of shocks originating from common factors, layer factors and the idiosyncratic component. Our analysis allows us to visualize our findings using networks representing the entire grid of institutions and to study system-wide connectedness, cross-sectoral as well as cross-country connectedness. The use of the “named factor” normalization, allows us to study how connectedness responds over time to different types of shocks.  "
 
 # Summary. An optional shortened abstract.
 summary: ""
