@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Connectedness and Layers Factors"
+title: "Connectedness and Layers Factors"
 authors: [Manta A,. Pesavento E. Takumah W.]
 date: 2023-03-02
 doi: ""
