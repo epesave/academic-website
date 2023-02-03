@@ -24,9 +24,9 @@ abstract: "We analyze connectedness and spillover effects among sovereigns, fina
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Markov Switching", "Oil prices", "Elastic Net", "Oil Prices"]
+tags: [""]
 categories: ["Applied Macroeconomics", "Working Papers"]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
