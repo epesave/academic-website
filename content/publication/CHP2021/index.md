@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Oil Price Volatility, Endogenous Regime Switching and Macroeconomic Factors"
+title: "Oil Prices Uncertainty, Endogenous Regime Switching, and Inflation Anchoring"
 authors: [Chang Y., Herrera A. M., Pesavento E.]
 date: 2022-02-02
 doi: ""
