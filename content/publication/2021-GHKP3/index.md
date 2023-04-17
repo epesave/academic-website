@@ -52,6 +52,9 @@ url_slides:
 url_source:
 url_video:
 
+links: 
+- name: Online Appendix
+  url: "files/GHKP3_2023-online-appendix.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
