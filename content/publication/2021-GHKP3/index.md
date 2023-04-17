@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-Dependent Local Projections. 
+title: "State-Dependent Local Projections. (previously knows as "When do State-Dependent Local Projections Work?")
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2022-04-22
 doi: ""
@@ -51,7 +51,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-url_appendix: "files/GHKP3_2023-online-appendix.pdf"
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
