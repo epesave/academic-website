@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-Dependent Local Projections. (previously known as When do State-Dependent Local Projections Work?) "
+title: "State-Dependent Local Projections. (previously known as When do State-Dependent Local Projections Work?)"
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2022-04-22
 doi: ""
