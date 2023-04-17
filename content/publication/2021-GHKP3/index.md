@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-Dependent Local Projections. (previously known as When do State-Dependent Local Projections Work?)"
+title: "State-Dependent Local Projections."
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2022-04-22
 doi: ""
@@ -16,7 +16,7 @@ publishDate: 2022-01-17
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "Working Paper, this paper was previously known as "When do State-Dependent Local Projections Work?")"
 publication_short: ""
 
 abstract: "Do state-dependent local projections asymptotically recover the population responses
