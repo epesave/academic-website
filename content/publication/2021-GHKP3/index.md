@@ -16,7 +16,7 @@ publishDate: 2022-01-17
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper, this paper was previously known as "When do State-Dependent Local Projections Work?")"
+publication: "Working Paper, this paper was previously known as `When do State-Dependent Local Projections Work?')"
 publication_short: ""
 
 abstract: "Do state-dependent local projections asymptotically recover the population responses
