@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "State-Dependent Local Projections."
+title: "State-Dependent Local Projections"
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2023-04-22
 doi: ""
