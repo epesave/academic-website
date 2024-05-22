@@ -43,7 +43,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/GHKP3_2023-paper.pdf"
+url_pdf: "files/GHKP3_JoE_2024.pdf"
 url_code: 
 url_dataset:
 url_poster:
@@ -54,7 +54,7 @@ url_video:
 
 links: 
 - name: Online Appendix
-  url: "files/GHKP3_2023-online-appendix.pdf"
+  url: "files/GHKP3_JoE_2024_Appendix.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
