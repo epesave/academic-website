@@ -16,8 +16,10 @@ publishDate: 2024-01-17
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Previously known as `When do State-Dependent Local Projections Work?')"
+publication: "Journal of Econometrics, Forthcoming"
 publication_short: ""
+
+
 
 abstract: "Do state-dependent local projections asymptotically recover the population responses
 of macroeconomic aggregates to structural shocks? The answer to this question depends on
