@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Working in Progress"
 publication_short: ""
 
-abstract: "We estimate spillover effects among European sovereigns, financial and non-financial institutions over time. By allowing for the presence of common and layer factors, we can evaluate the different effects of shocks originating from common factors, layer factors and the idiosyncratic component. Our analysis allows us to visualize our findings using networks representing the entire grid of institutions and to study system-wide connectedness, cross-sectoral as well as cross-country connectedness. The use of the “named factor” normalization, allows us to study how connectedness responds over time to different types of shocks.  "
+abstract: "We estimate spillover effects among European sovereigns, financial, non-financial institutions when extracting global and block-specific common factors. By allowing for the presence of global and block common factors, we can evaluate spillovers when shocks are originating from global common factors, block common factors and the idiosyncratic component. In addition, this way we can dive more into the purely idiosyncratic spillover effects which are free of block-related spillovers. Our analysis allows us to visualize our findings using heatmaps and compare spillover effects during two periods, the European financial and sovereign crisis period as well as the Covid-19 period.  "
 
 # Summary. An optional shortened abstract.
 summary: ""
