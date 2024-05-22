@@ -4,7 +4,7 @@
 title: "Nonparametric Local Projections"
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2024-05-22
-doi: "https://doi.org/10.1016/j.jeconom.2024.105702"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-05-17
