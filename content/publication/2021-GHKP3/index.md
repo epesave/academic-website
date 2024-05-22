@@ -4,10 +4,10 @@
 title: "State-Dependent Local Projections"
 authors: [Gonçalves S., Herrera A. M., Kilian L., Pesavento E.]
 date: 2024-01-22
-doi: ""
+doi: "https://doi.org/10.1016/j.jeconom.2024.105702"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-01-17
+publishDate: 2024-01-17
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
