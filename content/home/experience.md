@@ -18,6 +18,14 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Full Professor"
+  company = "Department of Economics - Emory University"
+  company_url = ""
+  location = "Atlanta, US"
+  date_start = "2024-09-01"
+  date_end = ""
+
+[[experience]]
   title = "President"
   company = "Senate of the Emory College of Arts and Sciences"
   company_url = ""
@@ -31,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Atlanta, US"
   date_start = "2007-09-01"
-  date_end = ""
+  date_end = "2024-08-31"
   
 [[experience]]
   title = "Department Chair"
