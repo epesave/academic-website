@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: Professor
 
 # Organizations/Affiliations
 organizations:
@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Time Series Analysis
 - Applied Macroeconomics
-- Exchange Rates
+- Oil and Monetary Shocks
 
 education:
   courses:
