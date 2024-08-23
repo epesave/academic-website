@@ -20,12 +20,10 @@ publication: "Working Paper"
 publication_short: ""
 
 
-
-
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["Local projection", "Structural model", "Time Varying VAR, "Nonlinear responses"]
+tags: ["Local projection", "Structural model", "Time Varying VAR", "Nonlinear responses"]
 categories: ["Theoretical Time Series", "Working Papers"]
 featured: true
 
