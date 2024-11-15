@@ -19,7 +19,18 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-
+abstract: "Nonlinearities play an increasingly important role in applied work when studying
+the responses of macroeconomic aggregates to policy shocks. Seemingly natural adaptations
+of the popular local linear projection estimator to nonlinear settings may fail to
+recover the population responses of interest. In this paper we study the properties of
+an alternative nonparametric local projection estimator of the conditional and unconditional
+responses of an outcome variable to an observed identified shock. We discuss
+alternative ways of implementing this estimator and how to allow for data-dependent
+tuning parameters. Our results are based on data generating processes that involve,
+respectively, nonlinearly transformed regressors, state-dependent coefficients, and nonlinear
+interactions between shocks and state variables. Monte Carlo simulations show
+that a local-linear specification of the estimator tends to work well in reasonably large
+samples and is robust to nonlinearities of unknown form."
 
 # Summary. An optional shortened abstract.
 summary: ""
