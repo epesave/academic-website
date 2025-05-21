@@ -1,9 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nonparametric Local Projections"
+title: "Discussion of: “Dynamic Causal Effects in a Nonlinear
+World: the Good, the Bad, and the Ugly”"
 authors: [Gonçalves S., Herrera A. M., Pesavento E.]
-date: 2024-05-22
+date: 2025-05-1
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,21 +17,17 @@ publishDate: 2025-05-1
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal Article"
+publication: "Journal of Business & Economics Statistics"
 publication_short: ""
 
-abstract: "Nonlinearities play an increasingly important role in applied work when studying
-the responses of macroeconomic aggregates to policy shocks. Seemingly natural adaptations
-of the popular local linear projection estimator to nonlinear settings may fail to
-recover the population responses of interest. In this paper we study the properties of
-an alternative nonparametric local projection estimator of the conditional and unconditional
-responses of an outcome variable to an observed identified shock. We discuss
-alternative ways of implementing this estimator and how to allow for data-dependent
-tuning parameters. Our results are based on data generating processes that involve,
-respectively, nonlinearly transformed regressors, state-dependent coefficients, and nonlinear
-interactions between shocks and state variables. Monte Carlo simulations show
-that a local-linear specification of the estimator tends to work well in reasonably large
-samples and is robust to nonlinearities of unknown form."
+abstract: "The ease of estimating linear local projections has made them a popular tool for
+impulse response function analysis. Koles´ar and Plagborg-Møller’s main goal is to
+inquire whether local projections (LP) estimands of impulse response functions have
+a causal interpretation when the data generating process (DGP) is nonlinear. This
+discussion focuses on two questions. First, how should we interpret the magnitude of
+the linear LP estimands in nonlinear environments? Second, is the linear LP useful
+when the researcher is interested in the effects of large shocks rather than small
+shocks?"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -47,7 +44,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "files/GHKP2_Nov2024.pdf"
+url_pdf: "files/GHKP2025.pdf"
 url_code: 
 url_dataset:
 url_poster:
@@ -58,7 +55,7 @@ url_video:
 
 links: 
 #- name: Online Appendix
- # url: "files/GHKP_JoE_2024_Appendix.pdf"
+ # url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
