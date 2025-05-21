@@ -4,11 +4,11 @@
 title: "Discussion of: “Dynamic Causal Effects in a Nonlinear
 World: the Good, the Bad, and the Ugly”"
 authors: [Gonçalves S., Herrera A. M., Pesavento E.]
-date: 2025-5-15
+date: 2025-05-15
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2025-5-23
+publishDate: 2025-05-23
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
