@@ -3,7 +3,7 @@
 
 title: "Connectedness and Layers Factors"
 authors: [Manta A,. Pesavento E. Takumah W.]
-date: 2024-03-02
+date: 2025-03-02
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
