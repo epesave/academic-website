@@ -16,7 +16,7 @@ publishDate: 2023-06-02
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Applied Econometrics Vol.38(6), pp.1593-1636 -** _Recognized by JAE as a top cited article for 2023_**"
+publication: "Journal of Applied Econometrics Vol.38(6), pp.1593-1636 - _Recognized by JAE as a top cited article for 2023_"
 publication_short: ""
 
 abstract: "Using a novel approach to model regime switching with dynamic feedback and interactions, we extract latent mean and volatility factors in oil price changes. We illustrate how the volatility factor constitutes a useful measure of oil market risk (or oil price uncertainty) for policy makers and analysts as it captures uncertainty not reflected in other economic/financial uncertainty measures. Then, in the context of a VAR, we investigate the role of oil price uncertainty in driving inflation expectations and inflation anchoring. We show that shocks to the mean factor lead to higher expected inflation and inflation disagreement among professional forecasters and households. In contrast, shocks to the volatility factor act as aggregate demand shocks in that they result in lower expected inflation, yet they do increase disagreement about future inflation among professional forecasters and, especially, among households. We also provide econometric evidence suggesting the proposed endogenous volatility switching model can outperform other regime switching models. "
