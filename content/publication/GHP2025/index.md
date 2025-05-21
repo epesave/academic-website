@@ -17,7 +17,7 @@ publishDate: 2025-05-1
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Business & Economics Statistics"
+publication: "Journal of Business & Economics Statistics - Forthcoming"
 publication_short: ""
 
 abstract: "The ease of estimating linear local projections has made them a popular tool for
