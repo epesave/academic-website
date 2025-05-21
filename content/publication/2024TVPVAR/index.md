@@ -3,7 +3,7 @@
 
 title: "Impulse Response Functions in Time Varying VARs: A Clustered Local Projections Approach"
 authors: [Scudiero A., Herrera A. M., Pesavento E.]
-date: 2024-08-22
+date: 2025-05-22
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
