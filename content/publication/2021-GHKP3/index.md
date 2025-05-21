@@ -16,7 +16,7 @@ publishDate: 2024-01-17
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Econometrics, Forthcoming"
+publication: "Journal of Econometrics, Vol 244, Issue 2"
 publication_short: ""
 
 
