@@ -16,10 +16,21 @@ publishDate: 2024-02-02
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working in Progress"
+publication: "Working Paper"
 publication_short: ""
 
-abstract: "We estimate spillover effects among European sovereigns, financial, non-financial institutions when extracting global and block-specific common factors. By allowing for the presence of global and block common factors, we can evaluate spillovers when shocks are originating from global common factors, block common factors and the idiosyncratic component. In addition, this way we can dive more into the purely idiosyncratic spillover effects which are free of block-related spillovers. Our analysis allows us to visualize our findings using heatmaps and compare spillover effects during two periods, the European financial and sovereign crisis period as well as the Covid-19 period.  "
+abstract: "How do financial shocks ripple through an economy - globally, regionally, or idiosyncratically?
+We propose a novel decomposition of connectedness across European
+sovereigns, financial institutions, and non-financial firms by separating global
+shocks, block-level shocks (within economic or sectoral groups), and purely idiosyncratic
+spillovers. Using credit default swaps (CDS) spreads as a forward-looking measure
+of credit risk, we show that ignoring block-level dynamics can misattribute sectorwide
+or regional movements to firm-specific contagion. Our heatmap visualizations
+reveal clear shifts in transmission patterns when these block factors are included, shedding
+light on where financial contagion originates and how it spreads, offering a more
+nuanced view of systemic risk and its underlying structure. This layered approach not
+only improves our understanding of systemic risk, but also provides a valuable tool for
+macrofinancial surveillance, offering insight into where vulnerabilities lie."
 
 # Summary. An optional shortened abstract.
 summary: ""
