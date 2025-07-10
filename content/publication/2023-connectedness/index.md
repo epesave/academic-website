@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Connectedness and Layers Factors"
+title: "Systemic Risk Monitoring in Europe: Mapping Financial Contagion with Block-Level Dynamics"
 authors: [Manta A,. Pesavento E. Takumah W.]
 date: 2025-03-02
 doi: ""
